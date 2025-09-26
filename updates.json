@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "update_date": "2024-12-20",
+  "items": [
+    {
+      "name": "Adobe Photoshop 2024",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://mega.nz/file/example1",
+      "description": "أحدث إصدار من الفوتوشوب 2024 مع التفعيل",
+      "size": "2.1 GB",
+      "image_name": "photoshop2024"
+    },
+    {
+      "name": "Microsoft Office 2024",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://mediafire.com/example2",
+      "description": "حزمة أوفيس كاملة 2024",
+      "size": "3.5 GB",
+      "image_name": "office2024"
+    },
+    {
+      "name": "WinRAR 2024",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://example.com/winrar",
+      "description": "برنامج ضغط الملفات الشهير",
+      "size": "45 MB",
+      "image_name": "winrar"
+    }
+  ]
+}
