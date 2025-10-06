@@ -1,0 +1,55 @@
+{
+  "batch_id": 1,
+  "items": [
+    {
+      "name": "Internet Download Manager",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://www.internetdownloadmanager.com/download.html",
+      "description": "أسرع برنامج لتحميل الملفات من الإنترنت",
+      "size": "12 MB",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Internet_Download_Manager_logo.png/200px-Internet_Download_Manager_logo.png",
+      "image_name": "default_image"
+    },
+    {
+      "name": "VLC Media Player",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://www.videolan.org/vlc/",
+      "description": "مشغل الوسائط الشهير لكل صيغ الفيديو",
+      "size": "85 MB",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/200px-VLC_Icon.svg.png",
+      "image_name": "default_image"
+    },
+    {
+      "name": "WinRAR",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://www.win-rar.com/",
+      "description": "برنامج ضغط وفك ضغط الملفات",
+      "size": "45 MB",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WinRAR_icon.svg/200px-WinRAR_icon.svg.png",
+      "image_name": "default_image"
+    },
+    {
+      "name": "Google Chrome",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://www.google.com/chrome/",
+      "description": "متصفح الإنترنت السريع من جوجل",
+      "size": "120 MB",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/200px-Google_Chrome_icon_%28February_2022%29.svg.png",
+      "image_name": "default_image"
+    },
+    {
+      "name": "WhatsApp",
+      "type": "تطبيق",
+      "category": "android",
+      "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
+      "description": "تطبيق المراسلة الفورية الشهير",
+      "size": "45 MB",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/200px-WhatsApp.svg.png",
+      "image_name": "default_image"
+    }
+  ]
+}
