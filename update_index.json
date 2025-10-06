@@ -1,0 +1,14 @@
+{
+  "latest_version": 2,
+  "app_version": "1.1.0",
+  "app_download_url": "https://github.com/esamimrb/Update/raw/main/EsamTech.apk",
+  "update_date": "2024-12-20",
+  "required_updates": [
+    "update_batch_1.json"
+  ],
+  "update_size": "150 KB",
+  "changelog": {
+    "ar": "• إضافة 5 برامج جديدة\n• تحسين أداء التطبيق\n• إصلاح بعض الأخطاء",
+    "en": "• Added 5 new programs\n• Improved app performance\n• Fixed some bugs"
+  }
+}
