@@ -1,56 +1,86 @@
 {
   "version": 2,
-  "update_date": "2024-12-20",
-  "items": [
+  "update_date": "2024-01-15",
+  "all_items": [
     {
-      "name": "Internet Download Manager",
+      "name": "aSc Timetables 2024.24.1",
       "type": "برنامج",
       "category": "windows",
-      "url": "https://www.internetdownloadmanager.com/download.html",
-      "description": "أسرع برنامج لتحميل الملفات من الإنترنت",
-      "size": "12 MB",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Internet_Download_Manager_logo.png/200px-Internet_Download_Manager_logo.png",
-      "image_name": "default_image"
+      "url": "https://t.me/win_app_exe/3179?single",
+      "description": "برنامج جداول الدراسة والمواعيد المتقدم",
+      "size": "150 MB",
+      "imageName": "asc_timetables",
+      "imageUrl": "https://raw.githubusercontent.com/esamimrb/Update/main/images/aScTimetables2024.jpg"
     },
     {
-      "name": "VLC Media Player",
-      "type": "برنامج",
+      "name": "HEU KMS Activator",
+      "type": "أداة تصفير", 
       "category": "windows",
-      "url": "https://www.videolan.org/vlc/",
-      "description": "مشغل الوسائط الشهير لكل صيغ الفيديو",
-      "size": "85 MB",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/200px-VLC_Icon.svg.png",
-      "image_name": "default_image"
+      "url": "https://t.me/win_app_exe/3126",
+      "description": "أداة تنشيط ويندوز وأوفيس بشكل دائم",
+      "size": "8 MB",
+      "imageName": "heu_kms",
+      "imageUrl": "https://raw.githubusercontent.com/esamimrb/Update/main/images/HEUKMSActivator.jpg"
     },
     {
-      "name": "WinRAR",
+      "name": "Autodesk 3ds Max 2022",
       "type": "برنامج",
       "category": "windows",
-      "url": "https://www.win-rar.com/",
-      "description": "برنامج ضغط وفك ضغط الملفات",
+      "url": "https://t.me/win_app_exe/3119?single",
+      "description": "برنامج النمذجة والتصميم ثلاثي الأبعاد المحترف",
+      "size": "3.5 GB", 
+      "imageName": "3ds_max",
+      "imageUrl": "https://raw.githubusercontent.com/esamimrb/Update/main/images/Autodesk3dsMax2022.jpg"
+    },
+    {
+      "name": "Adobe Photoshop 2025 v26.10.0.7",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://t.me/win_app_exe/3136?single",
+      "description": "أقوى برنامج تحرير الصور وتصميم الجرافيك",
+      "size": "4.2 GB",
+      "imageName": "photoshop", 
+      "imageUrl": "https://raw.githubusercontent.com/esamimrb/Update/main/images/AdobePhotoshop2025.jpg"
+    },
+    {
+      "name": "IObit Uninstaller PRO 15.0.0.13 Portable",
+      "type": "برنامج",
+      "category": "windows", 
+      "url": "https://t.me/win_app_exe/3172?single",
+      "description": "أداة إزالة البرامج بشكل كامل ومحترف",
       "size": "45 MB",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WinRAR_icon.svg/200px-WinRAR_icon.svg.png",
-      "image_name": "default_image"
+      "imageName": "iobit_uninstaller",
+      "imageUrl": "https://raw.githubusercontent.com/esamimrb/Update/main/images/IObitUninstallerPRO.jpg"
     },
     {
-      "name": "Google Chrome",
+      "name": "LDPlayer", 
       "type": "برنامج",
-      "category": "windows",
-      "url": "https://www.google.com/chrome/",
-      "description": "متصفح الإنترنت السريع من جوجل",
-      "size": "120 MB",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/200px-Google_Chrome_icon_%28February_2022%29.svg.png",
-      "image_name": "default_image"
-    },
-    {
-      "name": "WhatsApp",
-      "type": "تطبيق",
       "category": "android",
-      "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
-      "description": "تطبيق المراسلة الفورية الشهير",
-      "size": "45 MB",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/200px-WhatsApp.svg.png",
-      "image_name": "default_image"
+      "url": "https://t.me/win_app_exe/3167",
+      "description": "محاكي أندرويد سريع وخفيف للألعاب والتطبيقات",
+      "size": "650 MB",
+      "imageName": "ldplayer",
+      "imageUrl": "https://raw.githubusercontent.com/esamimrb/Update/main/images/LDPlayer.jpg"
+    },
+    {
+      "name": "Adobe After Effects 2025 25.4.0.86",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://t.me/win_app_exe/3139", 
+      "description": "برنامج المؤثرات البصرية والحركة الاحترافية",
+      "size": "3.8 GB",
+      "imageName": "after_effects",
+      "imageUrl": "https://raw.githubusercontent.com/esamimrb/Update/main/images/AdobeAfterEffects2025.jpg"
+    },
+    {
+      "name": "Adobe Illustrator 2025 29.7.1",
+      "type": "برنامج",
+      "category": "windows",
+      "url": "https://t.me/win_app_exe/3140",
+      "description": "برنامج التصميم المتجهي والرسومات الاحترافية", 
+      "size": "2.9 GB",
+      "imageName": "illustrator",
+      "imageUrl": "https://raw.githubusercontent.com/esamimrb/Update/main/images/AdobeIllustrator.jpg"
     }
   ]
 }
