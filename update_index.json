@@ -1,7 +1,7 @@
 {
   "latest_version": 3,
   "app_version": "1.2.1",
-  "app_download_url": "https://github.com/esamimrb/Update/raw/main/EsamTech_v1.2.1.apk",
+  "app_download_url": "https://raw.githubusercontent.com/esamimrb/Update/refs/heads/main/EsamTech_1.2.1.apk",
   "update_date": "2024-12-25",
   "required_updates": [
     "update_batch_1.json"
