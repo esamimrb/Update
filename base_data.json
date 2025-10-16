@@ -1,8 +1,14 @@
-
 {
-  "update_date": "2024-01-15",
+  "update_date": "2024-12-25",
+  "app_update": {
+    "available": true,
+    "version": "1.2.1",
+    "download_url": "https://raw.githubusercontent.com/esamimrb/Update/refs/heads/main/EsamTech_1.2.1.apk",
+    "changelog_ar": "• إضافة 8 برامج جديدة\n• تحسين أداء التطبيق\n• إصلاح بعض الأخطاء",
+    "changelog_en": "• Added 8 new programs\n• Improved app performance\n• Fixed some bugs"
+  },
   "all_items": [
-        {
+    {
       "name": "Internet Download Manager",
       "type": "برنامج",
       "category": "windows",
